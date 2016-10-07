@@ -1,2 +1,1 @@
-vm: true
-runtime: java
+module: service_name
